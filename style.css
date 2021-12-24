@@ -1,0 +1,7 @@
+.pagewrapper{
+    background-color:red;
+    width: 50%;
+    height: 20vh;
+    margin: 200px auto;
+    border-radius: 10px;
+}
